@@ -48,34 +48,35 @@
 <p align="center">
   <!-- Git -->
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="150"/>
-  
+
   <!-- GitHub (oq fonli versiyasi) -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="150"/>
 
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="150"/>
-  
+
   <!-- PyCharm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="150"/>
 
-  <!-- ChatGPT (icon image) -->
+  <!-- ChatGPT -->
   <img src="https://cdn-icons-png.flaticon.com/512/10686/10686351.png" height="150"/>
-  
-  <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="150"/>
 
   <!-- GitHub Copilot -->
   <img src="https://github.com/github/copilot-docs/blob/main/docs/images/copilot-logo.png?raw=true" height="150"/>
 
+  <!-- Postman -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="150"/>
+
   <!-- Stack Overflow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="150"/>
 
-  <!-- Notion -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="150"/>
-
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="150"/>
+
+  <!-- Notion -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="150"/>
 </p>
+
 
 
 
