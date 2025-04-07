@@ -41,8 +41,8 @@ Men Tashkentdanman va hozirda IT yo‘nalishida o‘qiyapman. Portfolio loyihala
 
 ## 📞 Murojaat uchun
 
-- Email: saidxoja.dev@gmail.com
-- Telegram: [@saidxoosj jsdf](https://t.me/saidxooja)
+- Email: ekshinsaidxoja@gmail.com
+- Telegram: [@saidxooja](https://t.me/saidxooja)
 - Portfolio: [saidxooja.netlify.app](https://saidxooja.netlify.app) *(namuna)*
 
 ---
