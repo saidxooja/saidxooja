@@ -47,9 +47,14 @@
 
 <p align="center">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="150"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="150"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="150"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-chatgpt-10889437-8809321.png" height="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="150"/>
+  <img src="https://github.com/github/copilot-docs/blob/main/docs/images/copilot-logo.png?raw=true" height="150"/>
 </p>
+
 
 ---
 
