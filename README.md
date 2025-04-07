@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#58A6FF">Saidxoja</span></h1>
 <h3 align="center">💻 Junior Developer | 💡 Tech Enthusiast | 🌍 Tashkent, Uzbekistan</h3>
 
@@ -47,9 +46,9 @@
 ### 🔥 My Favorite Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="150"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="150"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="150"/>
 </p>
 
 ---
@@ -63,4 +62,3 @@
 ---
 
 > 💬 “The best way to predict the future is to invent it.” — Alan Kay
-
