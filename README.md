@@ -46,6 +46,6 @@ Men Tashkentdanman va hozirda IT yo‘nalishida o‘qiyapman. Portfolio loyihala
 - Portfolio: [saidxooja.netlify.app](https://saidxooja.netlify.app) *(namuna)*
 
 ---
-f
+
 > 🎯 "Yaxshi dasturchi kod yozadi, zo‘ri esa muammoni tushunadi." – Shu fikrga amal qilaman
 
