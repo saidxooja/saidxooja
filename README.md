@@ -58,9 +58,6 @@
   <!-- PyCharm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="150"/>
 
-  <!-- ChatGPT -->
-  <img src="https://cdn-icons-png.flaticon.com/512/10686/10686351.png" height="150"/>
-
   <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="150"/>
 
