@@ -38,8 +38,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saidxojahub&show_icons=true&theme=github_dark" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidxojahub&theme=github-dark-blue" width="430"/>
 </p>
 
 ---
@@ -56,8 +56,8 @@
 
 ### 🌍 Let's Connect!
 <p align="left">
-  <a href="https://t.me/your_telegram_username" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/saidxooja" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:ekshinsaidxoja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
