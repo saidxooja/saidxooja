@@ -85,16 +85,16 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 ### 😄 KULGULI ZONA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200" title="Kod yozayotganimda kompyuter mendan tezroq o‘ylab qolsa 😅"/>
-  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="200" title="Kodim ishladi! Bilmayman nega, lekin ishladi 😅"/>
-  <img src="https://media.giphy.com/media/5XAbrDMgtxOq4y3D9oc/giphy.gif" width="200" title="Maymun ham kod yozadi endi, men-chi?" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="220" title="Maymun ham kod yozyapti. Endi kod ishlar, inshaAllah 🐒"/>
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="220" title="Bug topdim deb quvonganingda u faqat console.log bo‘lsa 😂"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" title="Kompyuterim ustida dam olay deb o‘tirgan vaqtim 😅"/>
 </p>
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23FFD700&aColor=%23ffffff" />
 </p>
 
-<p align="center"><i>“Ba’zida kod ishlamaydi... Kulib qo‘ya qolamiz va yana terminalga qaytamiz 😄”</i></p>
+<p align="center"><i>“Kod ishlamayapti... ammo men ishlayapman — muhim narsa shu!” 😄</i></p>
 
 ---
 
