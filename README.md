@@ -91,10 +91,10 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23FFD700&aColor=%23FFFFFF" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23ffcc00&aColor=%23ffffff" />
 </p>
 
-<p align="center"><i>“Ba'zida kod ishlamaydi... Kulib qo‘ya qolamiz va davom etamiz 😄”</i></p>
+<p align="center"><i>“Dasturchi bo‘lish — bu bug‘ topib, keyin o‘zing xursand bo‘lish degani 🤓”</i></p>
 
 ---
 
