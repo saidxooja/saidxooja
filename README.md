@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Kod+mening+tillam!;🎯+Orzularni+dasturga+aylantiraman!;🧠+Har+kun+1%+o‘sish+prinsipida+ishlayman!;⚙️+Har+bir+muammo+–+yashirin+yechim+kutmoqda!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Kod+mening+hayotim mazmuni!;🎯+Orzularni+dasturga+aylantiraman!;🧠+Har+hafta+1%+o‘sish+prinsipida+ishlayman!;⚙️+Har+bir+muammo+–+yashirin+yechim+kutmoqda!"
     alt="Typing SVG"
   />
 </p>
@@ -14,8 +14,8 @@
 - 👨‍💻 Python backend developer — kod bilan orzularni bog‘layman  
 - 🚀 Django, FastAPI, aiogram — texnologik arsenalim  
 - 🛠 Telegram botlar, veb platformalar, CRUD tizimlar bilan ishlayman  
-- 🧩 Murakkab muammolarni oddiy, tushunarli echimlarga aylantiraman  
-- ❤️ O‘rganish, baham ko‘rish, ilhomlantirish — bu hayotimning bir qismi
+- 🧩 Murakkab muammolarni oddiy, tushunarli yechimlarga aylantirishni yaxshi koraman  
+- ❤️ O‘rganish, baham ko‘rish, o'rgatish — bu hayotimning bir qismi
 
 ---
 
