@@ -68,27 +68,27 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 
 <table>
   <tr>
-    <td align="center" style="padding: 20px; border-radius: 12px;">
-      <a href="https://t.me/saidxooja" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" style="border-radius: 50%; margin-bottom: 10px;"><br>
-        <b style="font-size: 16px; color: #0088cc;">Telegram</b><br>
-        <span style="color: #c0c0c0;">@saidxooja</span>
+    <td align="center">
+      <a href="https://t.me/saidxooja" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60"/><br>
+        <b>Telegram</b><br>
+        <span>@saidxooja</span>
       </a>
     </td>
-    
-    <td align="center" style="padding: 20px; border-radius: 12px;">
-      <a href="mailto:ekshinsaidxoja@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60" style="border-radius: 50%; margin-bottom: 10px;"><br>
-        <b style="font-size: 16px; color: #ea4335;">Email</b><br>
-        <span style="color: #c0c0c0;">ekshinsaidxoja@gmail.com</span>
+
+    <td align="center" style="padding-left: 40px; padding-right: 40px;">
+      <a href="mailto:ekshinsaidxoja@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60"/><br>
+        <b>Email</b><br>
+        <span>ekshinsaidxoja@gmail.com</span>
       </a>
     </td>
-    
-    <td align="center" style="padding: 20px; border-radius: 12px;">
-      <a href="https://github.com/saidxooja" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60" style="border-radius: 50%; margin-bottom: 10px;"><br>
-        <b style="font-size: 16px; color: #ffffff;">GitHub</b><br>
-        <span style="color: #c0c0c0;">saidxooja</span>
+
+    <td align="center">
+      <a href="https://github.com/saidxooja" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60"/><br>
+        <b>GitHub</b><br>
+        <span>saidxooja</span>
       </a>
     </td>
   </tr>
