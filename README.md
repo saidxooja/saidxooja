@@ -85,16 +85,16 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 ### 😄 KULGULI ZONA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" title="Kod yozayotganimda kompyuter mendan tezroq o‘ylab qolsa 😅"/>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" title="`Bug` topdim deb quvonganimda, u test faylda ekan..."/>
-  <img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="200" title="Kodim ishlayapti! Qanday qilib? Bilmayman 😅"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" title="Kod yozayotganimda kompyuter mendan tezroq o‘ylab qolsa 😅"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" title="`Bug` topdim deb quvonganimda, u test faylda ekan..."/>
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200" title="Kodim ishlayapti! Qanday qilib? Bilmayman 😅"/>
 </p>
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23FFD700&aColor=%23FFFFFF" />
 </p>
 
-<p align="center"><i>“Dasturchi bo‘lish — bu bug‘ topib, keyin o‘zing xursand bo‘lish degani 🤓”</i></p>
+<p align="center"><i>“Ba'zida kod ishlamaydi... Kulib qo‘ya qolamiz va davom etamiz 😄”</i></p>
 
 ---
 
