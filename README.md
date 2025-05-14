@@ -70,8 +70,19 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 ### 📞 Murojaat uchun
 
 <p align="center">
-  <a href="https://t.me/saidxooja"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:ekshinsaidxoja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/saidxooja" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:ekshinsaidxoja@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/saidxooja" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-saidxooja-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💬 Har qanday loyiha, fikr yoki savol bo‘yicha bemalol bog‘lanishingiz mumkin!</i>
 </p>
 
 ---
@@ -79,8 +90,16 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 ### 😄 Kulguli zona
 
 <p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="220" />
+</p>
+
+<p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23ffcc00&aColor=%23ffffff" />
 </p>
+
+<p align="center"><i>Kayfiyatni ko‘taring, kod yozish faqat jiddiylik emas 😎</i></p>
 
 ---
 
