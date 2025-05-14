@@ -32,17 +32,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saidxojahub&show_icons=true&theme=github_dark" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidxojahub&theme=github-dark-blue" width="430"/>
-</p>
-
----
-
 ### 🔥 My Favorite Tools
 
 <p align="center">
