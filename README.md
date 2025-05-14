@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salom, men Saidxo'ja!</h1>
+<h1 align="center">👋 Salom, men  Junior dasturchi Saidxo'jaman!</h1>
 <h3 align="center">🎯 Yashirin kuchim — kodlash, ilg‘or yechimlar va soddalikni uyg‘unlashtirish.</h3>
 
 ---
