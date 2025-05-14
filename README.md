@@ -2,10 +2,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Kod+mening+hayotim mazmuni!;🎯+Orzularni+dasturga+aylantiraman!;🧠+Har+hafta+1%+o‘sish+prinsipida+ishlayman!;⚙️+Har+bir+muammo+–+yashirin+yechim+kutmoqda!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=🚀+Ilhom+bilan+boshlanmagan+kod+natija+bermaydi!;🛠️+Har+bir+satr+–+muammoning+yechimi+bo‘lishi+mumkin.;🎯+Dasturchi+–+bu+ijodkor,+yechim+topuvchi,+orzu+quruvchi.;💬+Kod+–+jimjitlikda+gapirishning+eng+aniq+usuli.;🌱+Kundalik+1%+o‘sish+–+muvaffaqiyat+formulasi.;🤝+Texnologiya+–+insonlarga+qulaylik+bermasa,+uning+qadri+yo‘q!;✨+Kichik+loyihalar+katta+o‘zgarishlar+boshlanishi+bo‘lishi+mumkin!"
     alt="Typing SVG"
   />
 </p>
+
 
 ---
 
