@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Kod+mening+tilim,+fikrlarimning+ohangi.;🛠️+Har+bir+satr+yechimga+yo‘l+ochadi.;🎯+Dasturlash+bu+ijod,+ijod+esa+tasavvur+chegarasizligidir.;💬+Kod+–+jim+turib+dunyoga+gapirishdir.;🌱+Kundalik+1%+o‘sish+–+abadiy+motivatsiya.;🤝+Texnologiya+–+inson+hajmdagi+muammoni+automatlashtirishdir.;✨+Har+kichik+g‘oya+katta+natijaga+aylanishi+mumkin."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=👨‍💻+Kod+yozish+–+qiziq,+xatoliklar+–+ruxsat.;😂+To‘g‘ri+yozgan+kod+ham+ba’zan+nima+uchun+ishlayotganini+bilmayman.;💡+Bug+bor+joyda+ijod+bor.;🎯+Developer+emasman,+debuggerman+%F0%9F%98%82;🚀+Qayta+restart+–+hamma+narsaning+davosidir!"
     alt="Typing SVG"
   />
 </p>
@@ -90,16 +90,16 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 ### 😄 KULGULI ZONA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220" />
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="220" />
-  <img src="https://media.giphy.com/media/XHAv3Gzpt3svq/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="200" title="Kod yozayotganimda kompyuter mendan tezroq o‘ylab qolsa 😅"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" title="`Bug` topdim deb quvonganimda, u test faylda ekan..."/>
+  <img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="200" title="Kodim ishlayapti! Qanday qilib? Bilmayman 😅"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23FFD700&aColor=%23FFFFFF" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23ffcc00&aColor=%23ffffff" />
 </p>
 
-<p align="center"><i>“Ba'zida kod ishlamaydi... Kulib qo‘ya qolamiz va davom etamiz 😄”</i></p>
+<p align="center"><i>“Dasturchi bo‘lish — bu bug‘ topib, keyin o‘zing xursand bo‘lish degani 🤓”</i></p>
 
 ---
 
