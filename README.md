@@ -85,9 +85,9 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 ### 😄 KULGULI ZONA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="220" title="Dasturchi bo‘lganimdan beri tushlarim ham konsolda kechadi..." />
-  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="220" title="Kodim ishladi! Bilmayman nega, lekin ishladi 😅" />
-  <img src="https://media.giphy.com/media/5XAbrDMgtxOq4y3D9oc/giphy.gif" width="220" title="Maymun ham kod yozadi endi, men-chi?" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200" title="Kod yozayotganimda kompyuter mendan tezroq o‘ylab qolsa 😅"/>
+  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="200" title="Kodim ishladi! Bilmayman nega, lekin ishladi 😅"/>
+  <img src="https://media.giphy.com/media/5XAbrDMgtxOq4y3D9oc/giphy.gif" width="200" title="Maymun ham kod yozadi endi, men-chi?" />
 </p>
 
 <p align="center">
