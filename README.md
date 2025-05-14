@@ -87,19 +87,19 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 
 ---
 
-### 😄 Kulguli zona
+### 😄 KULGULI ZONA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="220" />
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/XHAv3Gzpt3svq/giphy.gif" width="220" />
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23ffcc00&aColor=%23ffffff" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23FFD700&aColor=%23FFFFFF" />
 </p>
 
-<p align="center"><i>Kayfiyatni ko‘taring, kod yozish faqat jiddiylik emas 😎</i></p>
+<p align="center"><i>“Ba'zida kod ishlamaydi... Kulib qo‘ya qolamiz va davom etamiz 😄”</i></p>
 
 ---
 
