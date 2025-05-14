@@ -65,25 +65,35 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 ### 📞 Murojaat uchun
 
 <div align="center">
-  
-<a href="https://t.me/saidxooja" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="mailto:ekshinsaidxoja@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/saidxooja" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://t.me/saidxooja" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/><br>
+          <strong>Telegram</strong><br>
+          @saidxooja
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:ekshinsaidxoja@gmail.com" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/><br>
+          <strong>Email</strong><br>
+          ekshinsaidxoja@gmail.com
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/saidxooja" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/><br>
+          <strong>GitHub</strong><br>
+          saidxooja
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-
 <p align="center">
-  💬 <i>Har qanday loyiha, g‘oya yoki savol bo‘yicha bemalol bog‘lanishingiz mumkin.</i>
+  <i>💬 Har qanday loyiha, fikr yoki hamkorlik taklifi bo‘yicha bemalol yozing.</i>
 </p>
 
 ---
