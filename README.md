@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=👨‍💻+Kod+yozish+–+qiziq,+xatoliklar+–+ruxsat.;😂+To‘g‘ri+yozgan+kod+ham+ba’zan+nima+uchun+ishlayotganini+bilmayman.;💡+Bug+bor+joyda+ijod+bor.;🎯+Developer+emasman,+debuggerman+%F0%9F%98%82;🚀+Qayta+restart+–+hamma+narsaning+davosidir!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Salom%2C+men+Saidxo‘ja!;💻+Kod+yozaman%2C+bug+topaman%2C+ba'zida+to‘g‘ri+ham+chiqadi.;🤖+Telegram+bot+%7C+Django+%7C+FastAPI+%7C+aiogram.;😂+Kod+ishladi%2C+lekin+nima+uchun+ishlaganini+bilmayman.;🧠+Developer+emasman%2C+debuggerman+desam+ham+bo‘ladi.;🌱+Har+kun+1%25+o‘sish+prinsipi+–+muvaffaqiyat+kaliti!;✨+Kod+faqat+texnika+emas%2C+bu+hayot+uslubi!"
     alt="Typing SVG"
   />
 </p>
