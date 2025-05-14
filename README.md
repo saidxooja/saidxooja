@@ -67,25 +67,25 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <a href="https://t.me/saidxooja" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/><br>
-          <strong>Telegram</strong><br>
-          @saidxooja
+      <td align="center" style="padding: 20px;">
+        <a href="https://t.me/saidxooja" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br>
+          <strong style="font-size: 16px; color: #0088cc;">Telegram</strong><br>
+          <span style="color: gray;">@saidxooja</span>
         </a>
       </td>
-      <td align="center">
-        <a href="mailto:ekshinsaidxoja@gmail.com" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/><br>
-          <strong>Email</strong><br>
-          ekshinsaidxoja@gmail.com
+      <td align="center" style="padding: 20px;">
+        <a href="mailto:ekshinsaidxoja@gmail.com" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br>
+          <strong style="font-size: 16px; color: #d44638;">Email</strong><br>
+          <span style="color: gray;">ekshinsaidxoja@gmail.com</span>
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/saidxooja" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/><br>
-          <strong>GitHub</strong><br>
-          saidxooja
+      <td align="center" style="padding: 20px;">
+        <a href="https://github.com/saidxooja" target="_blank" style="text-decoration: none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/><br>
+          <strong style="font-size: 16px; color: #000000;">GitHub</strong><br>
+          <span style="color: gray;">saidxooja</span>
         </a>
       </td>
     </tr>
@@ -93,7 +93,7 @@ Mening ishim — real muammolarga kod orqali **yechim topish**.
 </div>
 
 <p align="center">
-  <i>💬 Har qanday loyiha, fikr yoki hamkorlik taklifi bo‘yicha bemalol yozing.</i>
+  <i>💬 Har qanday loyiha, g‘oya yoki savol bo‘yicha bemalol yozishingiz mumkin.</i>
 </p>
 
 ---
