@@ -1,45 +1,51 @@
-<!-- Bosh sahifa banneri -->
-<h1 align="center" style="font-size: 40px;">👋 Assalomu alaykum, men <span style="color:#00FFFF;">Saidxo‘ja</span>!</h1>
-<h2 align="center" style="font-size: 24px;">💡 Ilhom bilan kod yozadigan va orzularni real dasturlarga aylantiradigan <i>developer</i></h2>
+<!-- Katta salomlashuv -->
+<h1 align="center">👋 Assalomu alaykum, men <span style="color:#00FFFF;">Saidxo‘ja</span>!</h1>
 
+<!-- Kattaroq typing effekt (eni 100%) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Backend+Developer+%7C+Django+%7C+FastAPI+%7C+Telegram+Bots;Kod+hayotga+mazmun+qo‘shadi!+😊" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Ilhom+bilan+kod+yozaman!;🎯+Orzularni+dasturga+aylantiraman!;🧠+O‘rganish+va+baham+ko‘rish+–+har+kunlik+yo‘lim!;🌱+Yaxshi+kod,+yaxshi+hayotga+xizmat+qiladi!"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-### ✨ Men haqimda qisqacha:
+### ☕️ Men haqimda
 
-- 🎯 Maqsadim — soddalik, samaradorlik va qulaylikni kod orqali yaratish  
-- 💼 Asosiy yo‘nalishlarim: Python, Django, FastAPI, Telegram Botlar  
-- 🛠 Har bir kod satri — bu hayotdagi muammo yechimiga qadam  
-- 📚 O‘rganish — mening eng katta sarmoyam  
+- 👨‍💻 Python/Django/FastAPI/aiogram — asosiy texnologiyalarim  
+- 🧰 Telegram botlar, CRUD platformalar, va foydali ilovalar ustida ishlayman  
+- 🤝 Har bir loyiha — bu real muammoga real yechim  
+- 📈 Har kuni 1% yaxshilanishga harakat qilaman
 
 ---
 
-### 🌟 Motivatsion kutib olish:
+### 🎉 Kulgu va ijobiylik — kodda ham kerak 😄
 
 <p align="center">
-  <strong><i>“Sifatli kod — jimjitlikdagi ijod!”</i></strong><br/>
-  <i>“Hech qanday Error — abadiy emas. Har biri sizni kuchaytiradi.”</i>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23ffcc00&aColor=%23ffffff" />
 </p>
 
 ---
 
-### 💬 Bog‘lanish:
+### 🔗 Bog‘lanish
 
 <p align="center">
-  <b>📫 Email:</b> ekshinsaidxoja@gmail.com  
+  <b>📬 Email:</b> ekshinsaidxoja@gmail.com  
   <br/>
   <b>💬 Telegram:</b> <a href="https://t.me/saidxooja">@saidxooja</a>
 </p>
 
 ---
 
+### 🎨 Estetik qo‘shimchalar
+
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23ffcc00&aColor=%23ffffff" alt="Hazil generator" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
+
+<p align="center"><i>“Yaxshi kod — bu jim bo‘lib yozilgan she’r.”</i></p>
 
 ---
 
-<h3 align="center">✨ Har bir satr orqasida orzu yashiringan ✨</h3>
+<h3 align="center">✨ Har bir satrda ilhom bor. Har bir loyiha — sizning kuchingiz aksidir.</h3>
